@@ -1,6 +1,8 @@
 # chrome-new-tab-extension
 Remove 'Most Visited Pages' from 'New Tab' Page
 
+# DOES NOT WORK ANYMORE DUE TO CHANGES IN CHROME
+
 #### Install
 https://chrome.google.com/webstore/detail/new-tab-page/mdgahpofcoafoglpneglfiloaibpafeo
 
