@@ -1,12 +1,16 @@
 # chrome-new-tab-extension
-Open 'google.com' as 'New Tab' Page
-
+Hide Most-Visited Sites on New Tab
 
 #### Install
 https://chrome.google.com/webstore/detail/new-tab-page/mdgahpofcoafoglpneglfiloaibpafeo
 
+#### Supported Domains
+https://www.google.com/supported_domains
+
 #### Build
-```zip newtab.zip manifest.json newtab.png newtab.html newtab.js```
+```zip -r -j new-tab.zip src/*
+```
+
 #### Release
 Upload at https://chrome.google.com/webstore/developer/dashboard
 
