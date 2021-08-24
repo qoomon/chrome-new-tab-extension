@@ -1,5 +1,5 @@
 # chrome-new-tab-extension
-Hide Most-Visited Sites on New Tab
+This extension will replace the default 'New Tab' with an empty but neat 'New Tab'
 
 #### Install
 https://chrome.google.com/webstore/detail/new-tab-page/mdgahpofcoafoglpneglfiloaibpafeo
